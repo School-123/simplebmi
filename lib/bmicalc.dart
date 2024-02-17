@@ -63,6 +63,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
     },
     child: Text('Calculate')),
     Text(result.toString())
+ 
 
   ],
       ),
